@@ -80,8 +80,9 @@ Continuem
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 Atividade colaborativa cada um deve comentar pelo menos 2 (duas) linhas do código
 ```java
+// importação do Scanner para receber entrada do usuario.
 import java.util.Scanner;
-
+// Classe principal do programa
 public class AgenciaAerea {
 
     public static void main(String[] args) {
